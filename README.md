@@ -1,6 +1,6 @@
 # The samples of Echo
 
-[Title] Echo: Reverberation-based Black-Box Adversarial Attacks on Speech Recognition and Speaker Verification
+[Title] Echo: Reverberation-based Online Black-Box Adversarial Attacks on Intelligent Audio Systems
 
 * `Samples/`: voice samples of Echo demo. 
   * `Echo/`: Real-world reverberation voice samples;
